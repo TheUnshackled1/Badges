@@ -2,8 +2,13 @@
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This line is for achieving badge from github desktop
 
+=======
+This line is for achieving badge from github desktop :D
+test again
+>>>>>>> Stashed changes
 =======
 This line is for achieving badge from github desktop :D
 test again
