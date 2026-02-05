@@ -1,7 +1,6 @@
 # Badges :)
-
-
 This line is for achieving badge from github desktop :D
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Test test
 =======
@@ -11,5 +10,8 @@ final line for badge
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+added this line for badge :)
+>>>>>>> main
 This Line is test for collaboration
 https://www.youtube.com/watch?v=TWPSmBzziYM
